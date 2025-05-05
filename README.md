@@ -4,7 +4,7 @@
 
 This project performs an end-to-end analysis of restaurant data, including data exploration, visualization, feature engineering, and predictive modeling to forecast the **Aggregate Rating** of restaurants. It leverages Python and common data science libraries such as `pandas`, `seaborn`, `matplotlib`, `scikit-learn`, and `folium`.
 
-## 📂 Dataset
+##  Dataset
 
 * Source: `dataset.csv`
 * Contains information about restaurants including name, location, cuisines, price range, table booking, online delivery, votes, and ratings.
